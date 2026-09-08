@@ -1,16 +1,16 @@
 {
-  "lastRun": "2026-09-07T21:14:48.625Z",
+  "lastRun": "2026-09-08T10:22:13.027Z",
   "redditPostCount": 0,
   "hnHitCount": 59,
-  "arxivPaperCount": 387,
+  "arxivPaperCount": 386,
   "topicCount": 28,
   "errors": [
+    "Reddit r/space+… hot: 403",
     "Reddit r/space+… top: 403",
     "Reddit r/cosmology+… top: 403",
-    "Reddit r/space+… hot: 403",
     "Reddit r/cosmology+… hot: 403",
     "Reddit r/QuantumPhysics+… top: 403",
     "Reddit r/QuantumPhysics+… hot: 403"
   ],
-  "durationMs": 373806
+  "durationMs": 462867
 }
